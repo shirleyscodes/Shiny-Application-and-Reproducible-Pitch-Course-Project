@@ -8,4 +8,7 @@ This assignment is a project with 2 parts:
 
 Link for the application:
 <https://shirleyscodes.shinyapps.io/courseraproject/>
+
+
 Link for the presentation:
+<https://github.com/shirleyscodes/Shiny-Application-and-Reproducible-Pitch-Course-Project>
